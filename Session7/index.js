@@ -172,6 +172,7 @@ class SportsCaptain extends Student {
   }
 
   markAttendance() {
+    // super.markAttendance();
     console.log(this.name, " is present in GROUND");
   }
 
@@ -207,6 +208,8 @@ class Employee {
     console.log("Employee of Office");
   }
 }
+
+const utEmployee = new Employee();
 
 // developer is child.
 // employee is parent.
