@@ -93,7 +93,7 @@
 
 // var obj = {
 //   a: 11000,
-//   foos: foo,
+//   foo: foo,
 // };
 
 // function foo() {
